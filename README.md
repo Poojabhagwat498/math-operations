@@ -104,9 +104,9 @@ Create a new branch (git checkout -b feature-name)
 Commit your changes (git commit -m "Add feature")
 Push to the branch (git push origin feature-name)
 Open a Pull Request
-👩‍💻 Author
 
+👩‍💻 Author
 Pooja Bhagwat
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Poojabhagwat498/math-operations.git
    LinkedIn: https://www.linkedin.com/in/pooja-bhagwat-33447a334 ---
