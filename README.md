@@ -73,8 +73,10 @@ math-operations/
 git clone https://github.com/your-username/math-operations.git
 2️⃣ Navigate to Project Folder
 cd math-operations
-3️⃣ Install Dependencies
-npm install
+3️⃣ Run the Project
+Open index.html in your browser
+OR
+Use Live Server in VS Code
 ▶️ Usage
 
 Run the application:
@@ -94,8 +96,8 @@ Add advanced operations (power, square root)
 Build a GUI calculator
 Create a web-based version
 Add API support
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome!
 
 Steps to Contribute:
