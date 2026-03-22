@@ -107,5 +107,5 @@ Open a Pull Request
 
 Pooja Bhagwat
 
-🔗 GitHub:https://github.com/your-username
+🔗 GitHub:
 LinkedIn: https://www.linkedin.com/in/pooja-bhagwat-33447a334 ---
