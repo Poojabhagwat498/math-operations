@@ -56,8 +56,9 @@ Display Result
 math-operations/
 │
 ├── src/
-│ ├── index.js
-│ ├── operations.js
+│ ├── index.html
+│ ├── app.js
+├── style.css
 │
 ├── package.json
 └── README.md
@@ -78,7 +79,7 @@ npm install
 
 Run the application:
 
-node src/index.js
+node src/index.html
 Example Output
 Enter first number: 10  
 Enter second number: 5  
@@ -108,4 +109,4 @@ Open a Pull Request
 Pooja Bhagwat
 
 🔗 GitHub:
-LinkedIn: https://www.linkedin.com/in/pooja-bhagwat-33447a334 ---
+   LinkedIn: https://www.linkedin.com/in/pooja-bhagwat-33447a334 ---
